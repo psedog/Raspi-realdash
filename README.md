@@ -46,4 +46,4 @@ Now you can make any system changes that you want.\
 
 
 Note:\
-We are adding a user called realdash. This is a backup user so that if you run into issues or need to do further configuration outside of Readash, you can. Our script turns boots straight into Realdash through the pi user.
+We are adding a user called realdash. This is a backup user so that if you run into issues or need to do further configuration outside of Readash, you can. Our script boots straight into Realdash through the pi user.
